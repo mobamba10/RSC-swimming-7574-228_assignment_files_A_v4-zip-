@@ -26,7 +26,7 @@ color:white;
 }
 header{
 width:100%;
-background: url("C:/Users/LVC/Downloads/7574-228_assignment_files_A_v4 zip./wave.html");
+background: url("7574-228_assignment_files_A_v4 zip./wave.html");
 height:30px;
 position:fixed;
 height:85px;
@@ -147,7 +147,7 @@ We look forward to seeing at the pool
 <br>
 <br>
 </footer>
-<img src="C:\Users\LVC\Dowloads\7574-228_assignment_files_A_v4 zip\download.html">
+<img src="7574-228_assignment_files_A_v4 zip/download.html">
 <br>
 <br>
 <br>
